@@ -1,0 +1,15 @@
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+p {
+  font-family: Lexend Zetta;
+  margin:1.66%;
+  font-weight: 800;
+  font-size: 22px;
+  border-bottom: solid #f1f1f1;
+  width: 30%;
+  padding: 20px;
+}
